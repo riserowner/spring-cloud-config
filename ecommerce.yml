@@ -2,5 +2,5 @@ token:
   expiration_time: 86400000 # 1DAY -  1000*60*60*24*1
   secret: my_token_default
 
-gateway:
-  ip: 192.168.35.132
+# gateway:
+#   ip: 192.168.35.132
