@@ -9,7 +9,7 @@ spring:
 #   secret: my_token_native_user_service_default
 
 gateway:
-  ip: 192.168.35.132
+  ip: 172.18.0.6 #192.168.35.132
 
 order_service:
   url: http://ORDER-SERVICE/order-service/%s/orders
